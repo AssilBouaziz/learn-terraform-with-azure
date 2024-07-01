@@ -1,10 +1,5 @@
 # learn-terraform-with-azure
 
-A comprehensive guide to learning Terraform with Azure, based on the tutorial "Learn Terraform with Azure by Building a Dev Environment ". 
-
-
-# learn-terraform-with-azure
-
 This repository is designed to help you learn Terraform, an open-source infrastructure as code software tool created by HashiCorp, specifically in the context of using it with Microsoft Azure. This guide follows the tutorial "Terraform for Beginners".
 
 ## Table of Contents
